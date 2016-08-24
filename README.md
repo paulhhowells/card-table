@@ -3,7 +3,7 @@ An investigation into responsive card layouts.
 
 Layout of cards is derived by a choosing a minimum width for the card.
 
-## To Do:
+## To Do
 * Degrade gracefully for older browsers including versions of IE earlier than IE11.
 
 ## License
